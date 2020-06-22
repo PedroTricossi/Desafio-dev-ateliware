@@ -11,6 +11,7 @@ Deploy:Heroku
 
 ## Consumo de API
 Linguagem: Javascript Vanilla
+
 Biblioteca: Axios
 
 ## Contrução do projeto
